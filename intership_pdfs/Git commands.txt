@@ -1,7 +1,0 @@
-Git commands:
-
-git clone (To clone the repo to local)
-git add . (To add everything)
-git commit -m "User msg" (To commit the added files to staging)
-git push (To push the files to current working branch)
-git checkout -b (To create a new branch and switch to it)
